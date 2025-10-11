@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","features":[
+
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[-270, 180],[-90, 180],[-90, 0],[-270, 0],[-270, 180]]],"type":"Polygon"},"properties":{"id":"N01","ZONE":"N"},"id":"N01"},
+
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[-270, 0],[-90, 0],[-90, -180],[-270, -180],[-270, 0]]],"type":"Polygon"},"properties":{"id":"N02","ZONE":"N"},"id":"N02"},
+
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[-90, 180],[90, 180],[90, -60],[-90, -60],[-90, 180]]],"type":"Polygon"},"properties":{"id":"N03","ZONE":"N"},"id":"N03"},
+
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[-90, -60],[90, -60],[90, -180],[-90, -180],[-90, -60]]],"type":"Polygon"},"properties":{"id":"N04","ZONE":"N"},"id":"N04"},
+
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[90, 180],[270, 180],[270, 0],[90, 0],[90, 180]]],"type":"Polygon"},"properties":{"id":"N05","ZONE":"N"},"id":"N05"},
+
+{"type":"Feature","properties":{},"geometry":{"coordinates":[[[90, 0],[270, 0],[270, -180],[90, -180],[90, 0]]],"type":"Polygon"},"properties":{"id":"N06","ZONE":"N"},"id":"N06"}
+
+]}
